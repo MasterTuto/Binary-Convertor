@@ -34,4 +34,4 @@ Caso queira obter esse programa em seu computador, simplesmente [baixe-o](https:
     2. Elemento nº 2
 
 E a imagem como exemplo:
-![Erro ao carregar imagem](https://forum.fsocietybrasil.org/images/vienna/logo.png)��
+![Erro ao carregar imagem](https://fanaru.com/mr-robot/image/186916-mr-robot-elliot.gif)��
