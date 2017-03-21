@@ -12,9 +12,9 @@ Caso queira obter esse programa em seu computador, simplesmente [baixe-o](https:
 
 ### Que tipo de código são esses?
   O nome dessa "linguagem" é markdown.
-  ` **Negrito** ` indica **Negrito**
-  ` _Itálico_ ` indica _Itálico_
-  `` `Código` `` indica `Código`
+` **Negrito** ` indica **Negrito**
+` _Itálico_ ` indica _Itálico_
+`` `Código` `` indica `Código`
   
   ```
     - Elemento nº 1
